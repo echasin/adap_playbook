@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><fica_seed>-177481808</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>-177481808</randomNumberClean> <fica>392</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+<Row><fica_seed>460175120</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>460175120</randomNumberClean> <fica>520</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+<Row><fica_seed>-158363995</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>-158363995</randomNumberClean> <fica>205</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+<Row><fica_seed>474030686</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>474030686</randomNumberClean> <fica>1036</fica> <approvalClass>A</approvalClass> <approvalStatus>approved</approvalStatus></Row>
+<Row><fica_seed>635663725</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>635663725</randomNumberClean> <fica>625</fica> <approvalClass>B</approvalClass> <approvalStatus>approved</approvalStatus></Row>
+<Row><fica_seed>-931982499</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>-931982499</randomNumberClean> <fica>151</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+<Row><fica_seed>-1424446177</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>-1424446177</randomNumberClean> <fica>423</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+<Row><fica_seed>-1330902449</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>-1330902449</randomNumberClean> <fica>151</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+<Row><fica_seed>1568973273</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>1568973273</randomNumberClean> <fica>873</fica> <approvalClass>A</approvalClass> <approvalStatus>approved</approvalStatus></Row>
+<Row><fica_seed>-952609024</fica_seed> <welcometext>Welcome to India</welcometext> <randomNumberClean>-952609024</randomNumberClean> <fica>276</fica> <approvalClass>Declined: fica too low</approvalClass> <approvalStatus>declined</approvalStatus></Row>
+</Rows>

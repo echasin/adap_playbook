@@ -1,0 +1,1 @@
+{"description":"Test  for event_correlation_1 workflow","lastmodifiedby":"echasin","asset_id":2000,"type":"secs/read","lastmodifieddatetime":"2016-06-30T18:30Z[GMT]","subtype":"I/O","domain":"TEST","name":"Greater than 600ms","enddatetime":"null","id":100,"category":"system","subcategory":"database","startdatetime":"2016-06-30T18:45Z[GMT]","status":"Active"}
